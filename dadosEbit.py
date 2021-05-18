@@ -1,3 +1,6 @@
+""" atenção! """
+""" infelizmente não esta mais funcionando :( pois o site atualizou, em breve tenterei fazer algo semelhante. """
+
 import webbrowser
 import requests
 from bs4 import BeautifulSoup
